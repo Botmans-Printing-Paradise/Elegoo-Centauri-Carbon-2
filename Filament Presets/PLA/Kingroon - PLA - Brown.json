@@ -1,0 +1,61 @@
+{
+    "default_filament_colour": [
+        "#A52A2A"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "15"
+    ],
+    "filament_deretraction_speed": [
+        "30"
+    ],
+    "filament_flow_ratio": [
+        "1.01"
+    ],
+    "filament_retract_before_wipe": [
+        "0%"
+    ],
+    "filament_retract_restart_extra": [
+        "0"
+    ],
+    "filament_retract_when_changing_layer": [
+        "1"
+    ],
+    "filament_retraction_length": [
+        "0.4"
+    ],
+    "filament_retraction_minimum_travel": [
+        "0.8"
+    ],
+    "filament_retraction_speed": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "Kingroon - PLA - Brown"
+    ],
+    "filament_vendor": [
+        "Kingroon"
+    ],
+    "filament_wipe": [
+        "1"
+    ],
+    "filament_wipe_distance": [
+        "1.2"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @Elegoo Centauri",
+    "is_custom_defined": "0",
+    "name": "Kingroon - PLA - Brown",
+    "nozzle_temperature": [
+        "200"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "200"
+    ],
+    "pressure_advance": [
+        "0.066"
+    ],
+    "version": "1.3.2.9"
+}
